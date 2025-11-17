@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "colors": "^1.4.0",
+    "fake-useragent": "^1.0.1",
+    "gradient-string": "^3.0.0",
+    "hpack": "^1.0.0",
+    "socks": "^2.8.7"
+  }
+}
